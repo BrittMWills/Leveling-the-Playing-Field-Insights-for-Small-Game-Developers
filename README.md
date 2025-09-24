@@ -8,7 +8,7 @@
 ---
 
 ## 📊 Project Overview  
-This project analyzes **Metacritic data (2020–2023)** to uncover how **genres, release timing, and engagement** impact a game’s success.  
+This analysis uses Metacritic data (2013–2023, 131,000+ PC games) to uncover actionable insights on how genre, release timing, and player engagement impact reception. By understanding review trends, critic-user dynamics, and publisher positioning, smaller studios can make evidence-based decisions to maximize their chances of success.
 Our goal: help **small developers** compete smarter — not bigger — by making data-driven decisions.  
 
 ---
@@ -16,7 +16,7 @@ Our goal: help **small developers** compete smarter — not bigger — by making
 ## 🔗 Key Resources  
 
 - 📑 **Data Analysis Report:** [Google Doc](https://docs.google.com/document/d/1EA1DI7DB3s7uhRAVsTbfzYydzXapT7kS/edit)  
-- 🎤 **Presentation Slides:** [Google Slides](https://docs.google.com/presentation/d/13k3rksmjcwQdkT1zlkHmzRby3IDwq0dE/edit?slide=id.p1#slide=id.p1))  
+- 🎤 **Presentation Slides:** [Google Slides](https://docs.google.com/presentation/d/13k3rksmjcwQdkT1zlkHmzRby3IDwq0dE/edit?slide=id.p1#slide=id.p1)  
 
 ---
 
