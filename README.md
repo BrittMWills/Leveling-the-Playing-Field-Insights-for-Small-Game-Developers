@@ -1,66 +1,57 @@
-# 🎮 Leveling the Playing Field: Insights for Small Game Developers
+# 🎮 Leveling the Playing Field: Insights for Small Game Developers  
 
-[![Made with Tableau](https://img.shields.io/badge/Made%20with-Tableau-blue)](https://www.tableau.com/)
-[![Report](https://img.shields.io/badge/Read-Full%20Report-brightgreen)](https://docs.google.com/document/d/1EA1DI7DB3s7uhRAVsTbfzYydzXapT7kS/edit)
-[![Slides](https://img.shields.io/badge/View-Presentation-orange)](https://docs.google.com/presentation/d/1P2xPf5Op68zOYUIGWB4ZEhh3vk2hvZcT/edit?slide=id.p5#slide=id.p5)
-
-## 👥 Contributors
-- [couign](https://github.com/couign)
-- [deekseek2](https://github.com/deekseek2)
-- Brittany Williams
+## 👥 Team Contributors  
+- [Brittany Williams](https://github.com/BrittMWills)  
+- [couign](https://github.com/couign)  
+- [deekseek2](https://github.com/deekseek2)  
 
 ---
 
-## 📊 Project Overview
-Indie teams compete in an overcrowded PC gaming market. We analyze Metacritic (2020–2023) to understand **genre**, **release timing**, and **engagement** dynamics and turn them into **actionable recommendations** for small developers.
+## 📊 Project Overview  
+This project analyzes **Metacritic data (2020–2023)** to uncover how **genres, release timing, and engagement** impact a game’s success.  
+Our goal: help **small developers** compete smarter — not bigger — by making data-driven decisions.  
 
 ---
 
-## 🔗 Dashboards (Interactive)
-> **Tip:** GitHub READMEs cannot render live Tableau iframes. Use the links below for interactivity, or open `docs/index.html` via GitHub Pages for embedded views.
+## 🔗 Key Resources  
 
-- **Release Timing & Overall Engagement** → https://public.tableau.com/app/profile/brittany.williams2558/viz/PlayerOneInsights_twbFINAL/Story1
-- **Diverging Opinions: Players vs Critics** → _add your Tableau public link here_
-- **Viewpoint Advantage Hypothesis** → _add your Tableau public link here_
+- 📑 **Data Analysis Report:** [Google Doc](https://docs.google.com/document/d/1EA1DI7DB3s7uhRAVsTbfzYydzXapT7kS/edit)  
+- 🎤 **Presentation Slides:** [Google Slides](https://docs.google.com/presentation/d/1P2xPf5Op68zOYUIGWB4ZEhh3vk2hvZcT/edit?slide=id.p5#slide=id.p5)  
 
 ---
 
-## 🖼 README Thumbnails (click to open dashboards)
-> Replace the placeholder images in `assets/` with your own PNGs exported from Tableau (Share → Download Image).
+## 📈 Tableau Dashboards  
 
-[![Release Timing & Overall Engagement](assets/release_timing_overall_engagement.png)](https://public.tableau.com/app/profile/brittany.williams2558/viz/PlayerOneInsights_twbFINAL/Story1)
-[![Diverging Opinions: Players vs Critics](assets/diverging_opinions.png)](#)
-[![Viewpoint Advantage Hypothesis](assets/viewpoint_advantage.png)](#)
+- **Release Timing & Engagement**  
+  [View Dashboard](https://public.tableau.com/app/profile/brittany.williams2558/viz/PlayerOneInsights_twbFINAL/Story1)  
 
----
+- **Diverging Opinions: Players vs Critics**  
+  *[Add your Tableau Public link here]*  
 
-## 🧾 Deliverables
-- **Presentation:** https://docs.google.com/presentation/d/1P2xPf5Op68zOYUIGWB4ZEhh3vk2hvZcT/edit?slide=id.p5#slide=id.p5
-- **Data Analysis Report:** https://docs.google.com/document/d/1EA1DI7DB3s7uhRAVsTbfzYydzXapT7kS/edit
+- **Viewpoint Advantage Hypothesis**  
+  *[Add your Tableau Public link here]*  
 
 ---
 
-## 📁 Suggested Repo Layout
-```
-.
-├─ README.md
-├─ data/                # cleaned datasets (csv/xlsx) and prep scripts
-├─ tableau/             # .twb/.twbx or links/instructions
-├─ reports/             # PDFs, docs
-├─ presentation/        # slides
-├─ assets/              # PNG thumbnails used in README
-└─ docs/
-   └─ index.html        # GitHub Pages entry with live Tableau iframes
+## 🧠 Key Insights  
+
+- **Genre matters** → Action & RPG dominate; niche genres require innovation.  
+- **Timing matters** → Fall drives reviews but AAA competition is fierce.  
+- **Engagement matters** → More reviews usually equal higher scores.  
+- **Critics vs Users** → Both agree when games are bad; users are harsher on what’s “good.”  
+- **Nuances** → Pre-release critic sentiment and art style affect how players respond.  
 
 ---
 
-## 🧠 Summary of Insights
-- **Genre matters:** Action & RPG dominate engagement; niches require distinctive positioning.
-- **Timing matters:** Fall boosts reviews but raises competition risk. Spring/Winter may suit indies better.
-- **Engagement matters:** More reviews correlate with higher scores—invest in early community momentum.
-- **Critics vs Users:** Users are harsher; polish and UX can flip sentiment.
+## ✅ Recommendations  
+
+1. 🎯 **Target genres wisely** — focus on Action/RPG or innovate in niches.  
+2. ⏳ **Time releases strategically** — avoid AAA-heavy Fall; consider Spring/Winter.  
+3. 🚀 **Build early engagement** — betas, influencers, and community outreach.  
+4. 🛠 **Polish matters** — users are harsher than critics, so stability & UX count.  
+5. 🎨 **Stand out visually** — distinctive art styles can boost recognition.  
 
 ---
 
-## 📬 Contact
-Questions or collabs? Open an issue or reach out via the report/presentation links.
+## 📬 Contact  
+For questions, feedback, or collabs → open an Issue or reach out through the report/presentation links above.  
