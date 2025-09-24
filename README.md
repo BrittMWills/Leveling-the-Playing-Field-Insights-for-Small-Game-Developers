@@ -8,7 +8,7 @@
 ---
 
 ## 📊 Project Overview  
-This analysis uses Metacritic data (2013–2023, 131,000+ PC games) to uncover actionable insights on how genre, release timing, and player engagement impact reception. By understanding review trends, critic-user dynamics, and publisher positioning, smaller studios can make evidence-based decisions to maximize their chances of success.
+This project analyzes **Metacritic data (2020–2023)** to uncover how **genres, release timing, and engagement** impact a game’s success.  
 Our goal: help **small developers** compete smarter — not bigger — by making data-driven decisions.  
 
 ---
@@ -16,7 +16,7 @@ Our goal: help **small developers** compete smarter — not bigger — by making
 ## 🔗 Key Resources  
 
 - 📑 **Data Analysis Report:** [Google Doc](https://docs.google.com/document/d/1EA1DI7DB3s7uhRAVsTbfzYydzXapT7kS/edit)  
-- 🎤 **Presentation Slides:** [Google Slides](https://docs.google.com/presentation/d/13k3rksmjcwQdkT1zlkHmzRby3IDwq0dE/edit?slide=id.p1#slide=id.p1)  
+- 🎤 **Presentation Slides:** [Google Slides](https://docs.google.com/presentation/d/1P2xPf5Op68zOYUIGWB4ZEhh3vk2hvZcT/edit?slide=id.p5#slide=id.p5)  
 
 ---
 
@@ -26,10 +26,10 @@ Our goal: help **small developers** compete smarter — not bigger — by making
   [View Dashboard](https://public.tableau.com/app/profile/brittany.williams2558/viz/PlayerOneInsights_twbFINAL/Story1)  
 
 - **Diverging Opinions: Players vs Critics**  
-  *[Add your Tableau Public link here]*  
+  [View Dashboard](https://public.tableau.com/views/CODEPUDDING92025/CriticsvsUsersmetacriticdata2013-2023PCgames?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  
 
 - **Viewpoint Advantage Hypothesis**  
-  *[Add your Tableau Public link here]*  
+  [View Dashboard](https://public.tableau.com/views/pcgameprojecttest/Story1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  
 
 ---
 
@@ -55,3 +55,4 @@ Our goal: help **small developers** compete smarter — not bigger — by making
 
 ## 📬 Contact  
 For questions, feedback, or collabs → open an Issue or reach out through the report/presentation links above.  
+
