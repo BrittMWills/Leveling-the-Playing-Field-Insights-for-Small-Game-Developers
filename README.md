@@ -16,7 +16,7 @@ Our goal: help **small developers** compete smarter — not bigger — by making
 ## 🔗 Key Resources  
 
 - 📑 **Data Analysis Report:** [Google Doc](https://docs.google.com/document/d/1EA1DI7DB3s7uhRAVsTbfzYydzXapT7kS/edit)  
-- 🎤 **Presentation Slides:** [Google Slides](https://docs.google.com/presentation/d/1P2xPf5Op68zOYUIGWB4ZEhh3vk2hvZcT/edit?slide=id.p5#slide=id.p5)  
+- 🎤 **Presentation Slides:** [Google Slides]((https://docs.google.com/presentation/d/1P2xPf5Op68zOYUIGWB4ZEhh3vk2hvZcT/edit?slide=id.g3663c094ced_4_181#slide=id.g3663c094ced_4_181)  
 
 ---
 
